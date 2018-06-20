@@ -1,0 +1,82 @@
+Code,Name,Prerequisite,AI,Systems,PL,Credits,Expected GPA
+300,Programming II,,0,0.5,1,3,2.9
+524,Introduction to Optimization,300,0.5,0,0,3,3.4
+532,Theory and Applications of Pattern Recognition,300,2,0,0,3,3.5
+240,Introduction to Discrete Mathematics,,0,0,0.5,3,2.8
+540,Introduction to Artificial Intelligence,240,1,0,0,3,3.25
+760,Machine Learning,540,2,0,0,3,3.7
+537,Introduction to Operating Systems,"354,367",0,2,1,4,3.35
+770,Human-Computer Interaction,,1,0,0,3,3.5
+706,Analysis of Software Artifacts,536,0,0.5,2.5,3,3.4
+536,Introduction to Compilers,300,0,0.5,2,3,3.1
+200,Programming I,,0,0,0.5,3,3.3
+202,Introduction to Computation,,0.1,0.1,0.1,3,3.5
+354,Machine Organization and Programming,252,0,0.4,0.2,3,3.4
+302,Introduction to Programming,,0,0,0.3,3,3.1
+252,Introduction to Computer Engineering,,0,0.2,0.1,2,3.45
+270,Fundamentals of Human Computer Interaction,,0.6,0.1,0,3,3.55
+298,Directed Study in Computer Science,,0,0,0,2,3.9
+301,Introduction to Data Programming,,0,0.2,0.3,3,3.21
+304,WES-CS Group Meeting,302,0,0,0.3,1,4
+367,Introduction to Data Structures,302,0,0,0.1,3,3.2
+368,Learning a Programming Language,,0,0,0.3,1,3.7
+369,Web Programming,367,0,0,0.3,3,3.6
+371,Technology of Computer Based Systems,302,0,0.2,0,3,3.8
+400,Programming III,300,0,0,0.4,3,3.5
+402,Introducing Computer Science to K-12 Students,300,0,0,0,2,4
+407,Foundations of Mobile Systems and Applications,367,0,0.3,0,3,3.4
+475,Introduction to Combinatorics,240,0,0,0,3,3.44
+435,Introduction to Cryptography,475,0.1,0.5,0,3,3.23
+506,Software Engineering,"367,407",0,0,0.3,3,3.5
+352,Digital System Fundamentals,252,0,0.6,0,3,3.5
+412,Introduction to Numerical Methods,"301,240",0,0,0.6,3,3.75
+514,Numerical Analysis,"200,301",0,0,0.6,3,3.87
+520,Introduction to Theory of Computing,"240,400",0,0,0.65,3,3.89
+525,Linear Programming Methods,,0,0,0.65,3,3.69
+533,Image Processing ,"200,300",0,0.78,0.3,3,3.4
+534,Computational Photography,"300,367",0.3,0.78,0.67,3,3.62
+539,Introduction to Artificial Neural Network,"200,302",0.9,0,0.1,2,3.77
+552,Introduction to Computer Architecture,"352,354",0,0.97,0,4,3.35
+564,Database Management Systems,"354,400",0.4,0.75,0,3,3.7
+576,Introduction to Bioinformatics,367,0.2,0,0.2,3,4
+577,Introduction to Algorithms,400,0.15,0,0.92,3,2.9
+579,Virtual Reality,,0.2,0.5,0.3,3,3.56
+640,Introduction to Computer Networks,537,0.2,0.6,0,3,3.62
+681,Senior Honor Thesis,,0.5,0.5,0.5,3,4
+703,Advanced Programming Languages & Compiler,536,0.1,0.45,0.6,3,3.44
+707,Mobile and Wireless Networking,640,0,0.8,0,3,3.85
+714,Methods of Computational Math - 1,412,0,0,0.88,3,3.61
+719,Stochastic Programming,"300,714",0.1,0,0.7,3,3.39
+726,Nonlinear Optimization - I,"524,525",0.2,0,0.77,3,3.58
+727,Convex Analysis,"524,726",0.15,0,0.67,3,3.59
+736,Advanced Operating Systems,537,0,0.94,0,4,3.72
+739,Distributed Systems,736,0,0.97,0,4,3.46
+740,Advanced Computer Networks,640,0,0.8,0,3,3.9
+744,Big Data Systems,552,0,0.78,0.85,3,3.85
+752,Advanced Computer Architecture,552,0,0.99,0,3,3.34
+761,Mathematical Machine Learning,"532,540",1,0,0,3,3.77
+765,Data Visualization,533,0.45,0.2,0,3,3.79
+790,Master's Thesis,,0.9,0.9,0.9,3,4
+838,Data Science,300,0.8,0.05,0,3,3.82
+839,Topics in Security,435,0.2,0,0.5,3,3.9
+471,Introduction to Computational Statistics,"202,300",0.5,0.1,0.1,3,3.24
+513,Numerical Linear Algebra,302,0.76,0,0.2,3,3.55
+558,Introduction to Computational Geometry,400,0.4,0,0,3,3.66
+559,Computer Graphics,400,0.4,0.6,0,3,3.7
+567,Medical Image Analysis,559,0.55,0.4,0,3,3.2
+570,Introduction to Human Computer Interaction,300,0.3,0,0,3,4
+612,User Experience Design 2,"559,570",0.3,0,0,3,3.89
+701,Construction of Compilers,536,0,0.95,0,3,3.22
+704,Principles of Programming Languages,300,0,0.1,0.88,3,3.7
+715,Methods of Computational Math - 2,714,0.4,0,0.3,3,3.6
+723,Dynamic Programming,577,0.2,0,0.81,3,3.11
+728,Integer Optimization,525,0.3,0,0.66,3,3.63
+755,VLSI System Design,752,0,1,0,3,3.34
+757,Advanced Computer Architecture 2,752,0,1,0,3,3.78
+776,Advanced Bioinformatics,576,0.6,0,0.4,3,3.7
+787,Advanced Algorithms,577,0,0,1,3,3.12
+861,Theory of Machine Learning,761,1,0,0,3,3.7
+880,Topics in Theoretical Computer Science,,0.2,0,0.9,3,3.8
+899,Pre-Dissertator Research,,0.9,0.9,0.9,3,4
+915,Computation and Informatics in Biology and Medicine ,576,0.2,0,0.5,3,3.94
+368,Matlab Programming,200,0.67,0.2,0.2,3,3.5
